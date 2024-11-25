@@ -29,7 +29,7 @@ Since position titles are varied from one company to another, the following code
 
 ### Positions by Companies 
 
-![Image](assets/image.png)
+![Image](https://github.com/AllenGold-max/Data-science-job-market-EDA/blob/main/Images/image%208.png)
 
 
 From the chart, we can see that Amazon.com hire the most candidate, follow by Ball Aerospace, Microsoft and Google.
@@ -37,14 +37,19 @@ From the chart, we can see that Amazon.com hire the most candidate, follow by Ba
 
 ### Positions by Cities
 
+![Image](https://github.com/AllenGold-max/Data-science-job-market-EDA/blob/main/Images/image%207.png)
 
 It appears that the top 5 cities that hire the most data science related job are New York, Seattle, Cambridge, Boston, and San Francisco. It makes sense since those cities are the technology hub of the country. 
 
 ### Positions by States
 
+![Image](https://github.com/AllenGold-max/Data-science-job-market-EDA/blob/main/Images/image%206.png)
+
 Even though the city with the highest number of positions is New York, the highest number of position by state is California, follows by Massachusetts and Washington.
 
-### Position by State and Job Title 
+### Position by State and Job Title
+
+![Image](https://github.com/AllenGold-max/Data-science-job-market-EDA/blob/main/Images/image%205.png)
 
 - For Data Science Manager, Data Scientist and Machine Learning Engineer, California is the state that hire the most position
 - For Data Analyst, it seems that New York hires the most position, follow closely by California
